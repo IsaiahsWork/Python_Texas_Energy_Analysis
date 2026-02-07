@@ -3,7 +3,6 @@
 An automated data pipeline and visualization tool that tracks electricity generation trends in Texas (ERCOT) using the U.S. Energy Information Administration (EIA) API.
 
 ![Texas Energy Transition Graph](./Figure_1.png)
-*(Note: Ensure your graph image is named `Figure_1.png` and is in the same folder)*
 
 ## 📋 Project Overview
 This project fetches, cleans, and visualizes 5 years of monthly power generation data (over 50,000 data points) to analyze how the Texas grid is evolving. It specifically highlights the interplay between **Natural Gas**, **Wind**, **Solar**, and **Nuclear** energy sources.
